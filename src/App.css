@@ -1,0 +1,7 @@
+@import 'https://fonts.googleapis.com/css2?family=Poppins:ital';
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: "Poppins", sans-serif;
+}
+
