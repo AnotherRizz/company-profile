@@ -13,21 +13,7 @@ const Navbar = () => {
         TechNova <LaptopMinimalCheck />
       </div>
       <div className="hidden md:flex items-center gap-8 text-sm text-gray-700">
-        <a href="#home" className="hover:text-sky-600 transition">
-          Home
-        </a>
-        <a href="#about" className="hover:text-sky-600 transition">
-          About
-        </a>
-        <a href="#services" className="hover:text-sky-600 transition">
-          Services
-        </a>
-        <a href="#portfolio" className="hover:text-sky-600 transition">
-          Portfolio
-        </a>
-        <a href="#contact" className="hover:text-sky-600 transition">
-          Contact
-        </a>
+       
       </div>
 
       <div className="flex items-center gap-4">
@@ -70,7 +56,7 @@ const Navbar = () => {
         <a
           href="#contact"
           className="hidden md:inline-block bg-sky-600 hover:bg-sky-700 text-white text-sm px-4 py-2 rounded-full transition">
-          Hubungi Kami
+          Let's Connect
         </a>
       </div>
     </nav>

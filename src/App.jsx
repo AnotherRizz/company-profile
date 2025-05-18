@@ -6,6 +6,7 @@ import Navbar from './utils/Navbar';
 import Clients from './components/Clients';
 import About from './components/About';
 import Services from './components/Services';
+import Footer from './components/Footer';
 
 function App() {
 
@@ -16,6 +17,7 @@ function App() {
        <About/>
        <Services/>
        <Clients/>
+       <Footer />
   
     </>
   )
